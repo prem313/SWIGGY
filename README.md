@@ -1,5 +1,4 @@
-##Swiggy Food Delivery App using React Native
-Swiggy Food Delivery App
+## Swiggy Food Delivery App using React Native
 
 Welcome to the Swiggy Food Delivery App project built using React Native. This project aims to create a user-friendly and efficient food delivery app similar to the popular Swiggy app. Users can browse through a variety of restaurants, select their favorite dishes, place orders, and have their food delivered to their doorstep.
 
